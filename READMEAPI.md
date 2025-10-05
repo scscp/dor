@@ -1,3 +1,13 @@
+🧋Menambahkan Environment Variables:
+1. Buka https://rentry.co/me-cli & copy
+2. Bikin file .env di dalam folder dor dengan isi text yang sudah di-copy tadi
+```nano .env```
+paste
+ctrl+x
+y
+enter
+(Pakai yang v8.7.0)
+
 # Untuk v8.6.0
 ```
 BASE_API_URL="https://api.myxl.xlaxiata.co.id"
