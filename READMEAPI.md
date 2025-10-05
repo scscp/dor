@@ -1,4 +1,5 @@
 # Untuk v8.6.0
+```
 BASE_API_URL="https://api.myxl.xlaxiata.co.id"
 BASE_CIAM_URL="https://gede.ciam.xlaxiata.co.id"
 BASIC_AUTH="OWZjOTdlZDEtNmEzMC00OGQ1LTk1MTYtNjBjNTNjZTNhMTM1OllEV21GNExKajlYSUt3UW56eTJlMmxiMHRKUWIyOW8z"
@@ -7,8 +8,9 @@ AX_FP_KEY="18b4d589826af50241177961590e6693"
 UA="myXL / 8.6.0(1179); com.android.vending; (samsung; SM-N935F; SDK 33; Android 13"
 API_KEY="vT8tINqHaOxXbGE7eOWAhA=="
 AES_KEY_ASCII="5dccbf08920a5527"
-
+```
 # Untuk v8.7.0
+```
 BASE_API_URL="https://api.myxl.xlaxiata.co.id"
 BASE_CIAM_URL="https://gede.ciam.xlaxiata.co.id"
 BASIC_AUTH="OWZjOTdlZDEtNmEzMC00OGQ1LTk1MTYtNjBjNTNjZTNhMTM1OllEV21GNExKajlYSUt3UW56eTJlMmxiMHRKUWIyOW8z"
@@ -17,3 +19,4 @@ AX_FP_KEY="18b4d589826af50241177961590e6693"
 UA="myXL / 8.7.0(1189); com.android.vending; (samsung; SM-N935F; SDK 33; Android 13"
 API_KEY="vT8tINqHaOxXbGE7eOWAhA=="
 AES_KEY_ASCII="5dccbf08920a5527"
+```
